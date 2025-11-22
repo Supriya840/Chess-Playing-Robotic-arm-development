@@ -6,4 +6,4 @@ Chess is one of the most popular board games played worldwide. It is set as the 
 ## Documentation
 You can read the full project report here:
 
-👉 [Download Project Report (DOCX)](documentation.docx)
+[Download Project Report (DOCX)](documentation.docx)
